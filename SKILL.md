@@ -2,9 +2,9 @@
 name: smart-citation-finder
 description: 智能引文检索与论证助手 — 分析文章内容，自动在中英文权威数据库中检索文献为每个论点提供支撑，生成GB/T 7714-2015格式引文列表。触发词：找文献、检索引文、文献论证、论点支撑。
 trigger: "找文献,检索引文,文献论证,论点支撑,根据文章内容检索,claim support"
-author: ZY
+author: OpenClaw Community
 created: 2026-05-25
-tags: [research, citation, literature-search, nsfc]
+tags: [research, citation, literature-search, nsfc, academic]
 ---
 
 # Smart Citation Finder — 智能引文检索技能
@@ -139,3 +139,6 @@ input: 人工智能辅助临床诊断在消化系统疾病中的应用
 style: gb7714
 claim_mode: true
 ```
+
+## 支持文件
+- `references/citation-search-prompts.md` — 论点提取、文献评估、GB/T 7714格式化 的标准Prompt模板，供agent在多轮检索中直接调用。
