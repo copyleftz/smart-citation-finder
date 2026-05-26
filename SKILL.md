@@ -2,7 +2,7 @@
 name: smart-citation-finder
 description: 智能引文检索与论证助手 — 分析文章内容，自动在中英文权威数据库中检索文献为每个论点提供支撑，生成GB/T 7714-2015格式引文列表。触发词：找文献、检索引文、文献论证、论点支撑。
 trigger: "找文献,检索引文,文献论证,论点支撑,根据文章内容检索,claim support"
-author: Zhou You (周邮)
+author: ZY
 created: 2026-05-25
 tags: [research, citation, literature-search, nsfc]
 ---
