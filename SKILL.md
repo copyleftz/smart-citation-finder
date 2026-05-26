@@ -116,7 +116,7 @@ claim_mode: true
 **示例1：国自然申请书引文补充**
 ```
 skill:smart-citation-finder
-input: /Volumes/NAS/申报材料/申请书v36.md
+input: /path/to/your/nsfc_proposal.md
 style: gb7714
 focus_topics: ["数据治理", "医院数据资产", "抗肿瘤药物管理"]
 ```
