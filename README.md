@@ -94,4 +94,5 @@ claim_mode: true
 
 ---
 
-**创建时间**：2026-05-25
+**Author**: OpenClaw Community  
+**Created**: 2026-05-25
